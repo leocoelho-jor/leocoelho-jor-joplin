@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 30 Nov 2021 20:23:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Lavar roupa ]]></title>
+            <guid>904d36e245a240e0992687b3ce9f3d37</guid>
+            <pubDate>Thu, 18 Nov 2021 12:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[<ul>
+<li>Uma tampa de alcool junto com o vinagre</li>
+<li>100 gramas de líquido pra lavar roupa</li>
+</ul>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
