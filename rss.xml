@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 20:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 21:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -15,6 +15,17 @@
 <li>Uma tampa de alcool junto com o vinagre</li>
 <li>100 gramas de líquido pra lavar roupa</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Crowdsourceando a solidariedade]]></title>
+            <guid>ff3e93856ed8425cb0ea10a069054cf6</guid>
+            <pubDate>Sat, 20 Feb 2021 03:56:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="/_resources/da87a09d515249b3aed00dca3cb4b5ac.jpg" /></p>
+<p><img src="/_resources/79e81b97e52d43708130574f640011f9.jpg" /></p>
+<p><img src="/_resources/eaf8af08f34542448725797d4f7985e9.jpg" /></p>
+<p><img src="/_resources/6e19984d518a40a1a4a759d868453689.jpg" /></p>
+<p><img src="/_resources/6c20f8079f944b8eb7c57ef83eaffc48.jpg" /></p>
 ]]></content:encoded>
         </item>
     </channel>
